@@ -1,0 +1,8 @@
+﻿Liquid Line 60 A4
+Typ montażu: Natynkowa.
+Rozsył światła: Direct.
+Układ optyczny: Microprismatic.
+Strumień świetlny oprawy w warunkach pomiaru (840: 4000 K, CRI>80): 2970 lm/m.
+Całkowity pobór mocy: 22,8 W/m.
+Skuteczność świetlna w warunkach pomiaru (840: 4000 K, CRI>80): 130 lm/W.
+Zamawiana według rysunku projektowego zaakceptowanego przez klienta.

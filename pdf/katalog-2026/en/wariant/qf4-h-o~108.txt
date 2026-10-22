@@ -1,0 +1,8 @@
+﻿Liquid Line 60 F4
+Mounting type: Recessed.
+Light distribution: Direct.
+Optical system: Opal Diffuser.
+Luminaire luminous flux at measurement conditions (840: 4000 K, CRI>80): 3230 lm/m.
+Total power consumption: 22.8 W/m.
+Luminous efficacy at measurement conditions (840: 4000 K, CRI>80): 142 lm/W.
+Ordered according to the project drawing approved by the customer.

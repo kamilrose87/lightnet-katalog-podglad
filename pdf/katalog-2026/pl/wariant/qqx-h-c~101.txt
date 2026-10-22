@@ -1,0 +1,8 @@
+﻿Liquid Line 40 QX/FX
+Typ montażu: Wpuszczana.
+Rozsył światła: Direct.
+Układ optyczny: Opal Flex Diffuser.
+Strumień świetlny oprawy w warunkach pomiaru (840: 4000 K, CRI>80): 2660 lm/m.
+Całkowity pobór mocy: 21,2 W/m.
+Skuteczność świetlna w warunkach pomiaru (840: 4000 K, CRI>80): 125 lm/W.
+Zamawiana według rysunku projektowego zaakceptowanego przez klienta.

@@ -1,0 +1,12 @@
+﻿Liquid Line 40 SY
+Typ montażu: Stojąca.
+Rozsył światła: Direct-Indirect.
+Układ optyczny: Microprismatic.
+Wykończenie powierzchni: Snow White.
+Osprzęt sterujący: Separately Dimmable.
+Temperatura barwowa: 4000K.
+Oddawanie barw: CRI>80.
+Strumień świetlny oprawy: 32 800 lm.
+Całkowity pobór mocy: 222 W.
+Skuteczność świetlna: 148 lm/W.
+Kod zamówieniowy: QSYAWX-840H-L2940-HA.

@@ -1,0 +1,12 @@
+﻿Liquid Line 40 CX
+Typ montażu: Na szynę trójfazową.
+Rozsył światła: Direct.
+Układ optyczny: Lens Louvre.
+Wykończenie powierzchni: Snow White.
+Osprzęt sterujący: Wł./wył..
+Temperatura barwowa: 4000K.
+Oddawanie barw: CRI>80.
+Strumień świetlny oprawy: 6840 lm.
+Całkowity pobór mocy: 40 W.
+Skuteczność świetlna: 171 lm/W.
+Kod zamówieniowy: QCXLWE-840H-L1726-WW.

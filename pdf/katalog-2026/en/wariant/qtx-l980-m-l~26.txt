@@ -1,0 +1,12 @@
+﻿Liquid Line 40 TX
+Mounting type: Table.
+Light distribution: Direct.
+Optical system: Lens Louvre.
+Surface finish: Snow White.
+Control gear: Switch&Dimm.
+Colour temperature: 4000K.
+Colour rendering: CRI>80.
+Luminaire luminous flux: 2500 lm.
+Total power consumption: 16 W.
+Luminous efficacy: 156 lm/W.
+Ordering code: QTXLWS-840M-L980-GW.

@@ -1,0 +1,8 @@
+﻿Liquid Line 40 QX/FX
+Mounting type: Recessed.
+Light distribution: Direct.
+Optical system: Lens Louvre.
+Luminaire luminous flux at measurement conditions (840: 4000 K, CRI>80): 2120 lm/m.
+Total power consumption: 12.5 W/m.
+Luminous efficacy at measurement conditions (840: 4000 K, CRI>80): 170 lm/W.
+Ordered according to the project drawing approved by the customer.

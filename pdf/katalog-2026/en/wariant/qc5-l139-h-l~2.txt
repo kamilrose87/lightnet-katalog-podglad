@@ -1,0 +1,12 @@
+﻿Liquid Line Compact C5
+Mounting type: 3-Phase Track.
+Light distribution: Direct.
+Optical system: Lens Louvre.
+Surface finish: Snow White.
+Control gear: On/Off.
+Colour temperature: 4000K.
+Colour rendering: CRI>80.
+Luminaire luminous flux: 1140 lm.
+Total power consumption: 8 W.
+Luminous efficacy: 143 lm/W.
+Ordering code: QC5LWE-840H-L139-WW.

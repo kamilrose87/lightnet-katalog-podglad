@@ -1,0 +1,12 @@
+﻿Liquid Line 40 CX
+Mounting type: 3-Phase Track.
+Light distribution: Direct.
+Optical system: Opal Diffuser.
+Surface finish: Snow White.
+Control gear: On/Off.
+Colour temperature: 4000K.
+Colour rendering: CRI>80.
+Luminaire luminous flux: 4050 lm.
+Total power consumption: 29 W.
+Luminous efficacy: 140 lm/W.
+Ordering code: QCXOWE-840H-L1765-W.

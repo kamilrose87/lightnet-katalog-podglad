@@ -1,0 +1,12 @@
+﻿Liquid Line 40 TX
+Typ montażu: Stołowa.
+Rozsył światła: Direct.
+Układ optyczny: Lens Louvre.
+Wykończenie powierzchni: Snow White.
+Osprzęt sterujący: Switch&Dimm.
+Temperatura barwowa: 4000K.
+Oddawanie barw: CRI>80.
+Strumień świetlny oprawy: 2500 lm.
+Całkowity pobór mocy: 16 W.
+Skuteczność świetlna: 156 lm/W.
+Kod zamówieniowy: QTXLWS-840M-L980-GW.

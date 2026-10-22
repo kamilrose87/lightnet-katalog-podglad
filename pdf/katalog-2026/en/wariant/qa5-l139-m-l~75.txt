@@ -1,0 +1,12 @@
+﻿Liquid Line 40 Compact A5
+Mounting type: Surface.
+Light distribution: Direct.
+Optical system: Lens Louvre.
+Surface finish: Snow White.
+Control gear: On/Off.
+Colour temperature: 4000K.
+Colour rendering: CRI>80.
+Luminaire luminous flux: 460 lm.
+Total power consumption: 3 W.
+Luminous efficacy: 153 lm/W.
+Ordering code: QA5LWE-840M-L139-W.

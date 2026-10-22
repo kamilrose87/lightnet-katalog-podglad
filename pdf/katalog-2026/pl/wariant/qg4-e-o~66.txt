@@ -1,0 +1,8 @@
+﻿Liquid Line 60 G4/P4
+Typ montażu: Zwieszana.
+Rozsył światła: Direct.
+Układ optyczny: Opal Diffuser.
+Strumień świetlny oprawy w warunkach pomiaru (840: 4000 K, CRI>80): 1700 lm/m.
+Całkowity pobór mocy: 11,9 W/m.
+Skuteczność świetlna w warunkach pomiaru (840: 4000 K, CRI>80): 143 lm/W.
+Zamawiana według rysunku projektowego zaakceptowanego przez klienta.

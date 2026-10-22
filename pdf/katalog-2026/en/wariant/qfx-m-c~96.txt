@@ -1,0 +1,8 @@
+﻿Liquid Line 40 QX/FX
+Mounting type: Recessed.
+Light distribution: Direct.
+Optical system: Opal Flex Diffuser.
+Luminaire luminous flux at measurement conditions (840: 4000 K, CRI>80): 1900 lm/m.
+Total power consumption: 15.2 W/m.
+Luminous efficacy at measurement conditions (840: 4000 K, CRI>80): 125 lm/W.
+Ordered according to the project drawing approved by the customer.

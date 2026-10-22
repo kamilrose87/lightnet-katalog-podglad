@@ -1,0 +1,12 @@
+﻿Liquid Line 40 SX
+Mounting type: Floor.
+Light distribution: Direct-Indirect.
+Optical system: Microprismatic.
+Surface finish: Snow White.
+Control gear: Separately Dimmable.
+Colour temperature: 4000K.
+Colour rendering: CRI>80.
+Luminaire luminous flux: 16,400 lm.
+Total power consumption: 111 W.
+Luminous efficacy: 148 lm/W.
+Ordering code: QSXAWX-840H-L1490-UA.

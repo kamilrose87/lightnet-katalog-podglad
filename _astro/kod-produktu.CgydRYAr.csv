@@ -1,0 +1,287 @@
+pozycja,nazwa_pl,nazwa_en,token,znaczenie,zaleznosci
+1,Rodzina produktu,Product Family,A,Caleo,
+1,Rodzina produktu,Product Family,B,Basic,
+1,Rodzina produktu,Product Family,C,Cubic,
+1,Rodzina produktu,Product Family,D,Midpin,
+1,Rodzina produktu,Product Family,E,Bench,
+1,Rodzina produktu,Product Family,F,Serenity,
+1,Rodzina produktu,Product Family,L,Matric,
+1,Rodzina produktu,Product Family,M,Beam Me Up,
+1,Rodzina produktu,Product Family,P,Midpoint,
+1,Rodzina produktu,Product Family,Q,Liquid Line,
+1,Rodzina produktu,Product Family,R,Ringo Star,
+1,Rodzina produktu,Product Family,U,Lucille,
+1,Rodzina produktu,Product Family,V,Vision,
+1,Rodzina produktu,Product Family,Z,Code Zero,
+2,Typ,Type,A1,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,A2,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,A3,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,A4,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,A5,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,A6,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,A7,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,A9,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,AX,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,C1,Ø95mm Déco-3-Phase Track,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,C3,Spotlight 3-Phase Track,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,C4,Spotlight Unbalanced,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,C5,Spotlight Balanced,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,CX,Spotlight 3-Phase Track,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,F1,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,F2,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,F3,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,F5,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,FX,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,G2,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,G3,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,G4,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,G5,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,G6,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,G7,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,GQ,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,GX,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,GY,Direct Only; LED converter in suspension box,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,L3,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,M2,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,M3,Direct Rotatable-Twistable,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,M4,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,M5,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,P1,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,P2,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,P3,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,P4,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,P5,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,P6,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,P7,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,PX,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,PY,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,R3,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,R4,Pendant SpotlightØ40mm,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,RQ,Direct-indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,RX,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,S1,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,S2,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,S4,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,S5,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,SX,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,SY,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,T1,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,T2,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,TX,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,W1,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,W4,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,WX,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,X3,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,X4,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,X5,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,X6,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,X7,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,Y3,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,Y5,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,Y6,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,Y7,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,TY,Direct Only,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+2,Typ,Type,W5,Direct-Indirect,"lista tokenów jest właściwa dla konkretnej Rodziny produktu, nie globalna"
+3,Układ optyczny,Optical System,1,Lens 15°,
+3,Układ optyczny,Optical System,2,Lens 24°,
+3,Układ optyczny,Optical System,3,Lens 36°,
+3,Układ optyczny,Optical System,4,Lens 60°,
+3,Układ optyczny,Optical System,5,Reflector 15° [onlyØ40mm],
+3,Układ optyczny,Optical System,6,Reflector 24°,
+3,Układ optyczny,Optical System,7,Reflector 36°,
+3,Układ optyczny,Optical System,8,Reflector 50°,
+3,Układ optyczny,Optical System,A,Microprismatic,
+3,Układ optyczny,Optical System,B,Lens 24°,
+3,Układ optyczny,Optical System,C,Opal Flex Diffuser,
+3,Układ optyczny,Optical System,D,Lens 70°,
+3,Układ optyczny,Optical System,F,Lens 60°,
+3,Układ optyczny,Optical System,G,Wallwasher,
+3,Układ optyczny,Optical System,K,Lens 24°,
+3,Układ optyczny,Optical System,L,Lens Louvre,
+3,Układ optyczny,Optical System,N,Lens 60°Oval,
+3,Układ optyczny,Optical System,O,Opal Diffuser,
+3,Układ optyczny,Optical System,X,Reflector 50°,
+3,Układ optyczny,Optical System,Y,Reflector 24°,
+3,Układ optyczny,Optical System,Z,Reflector 36°,
+4,Wykończenie powierzchni,Surface Finish,1,Cream Fabric,
+4,Wykończenie powierzchni,Surface Finish,2,Green Fabric,
+4,Wykończenie powierzchni,Surface Finish,3,Taupe Fabric,
+4,Wykończenie powierzchni,Surface Finish,4,Antracite Fabric,
+4,Wykończenie powierzchni,Surface Finish,A,Satin Silver,
+4,Wykończenie powierzchni,Surface Finish,B,Jet Black,
+4,Wykończenie powierzchni,Surface Finish,D,Anodic Black,
+4,Wykończenie powierzchni,Surface Finish,E,Natural Anodised,
+4,Wykończenie powierzchni,Surface Finish,F,Anodic Silver,
+4,Wykończenie powierzchni,Surface Finish,H,Anodic Champagne,
+4,Wykończenie powierzchni,Surface Finish,K,Satin Copper,
+4,Wykończenie powierzchni,Surface Finish,M,Satin Cloud,
+4,Wykończenie powierzchni,Surface Finish,R,Special Surface (please specify),wymaga podania koloru w osobnym polu tekstowym (RAL lub Lightnet Surface Collection)
+4,Wykończenie powierzchni,Surface Finish,S,Radiant Silver,
+4,Wykończenie powierzchni,Surface Finish,U,Urban Graphite,
+4,Wykończenie powierzchni,Surface Finish,V,Ivory White,
+4,Wykończenie powierzchni,Surface Finish,W,Snow White,
+4,Wykończenie powierzchni,Surface Finish,X,Satin Bronze,
+5,Osprzęt sterujący,Control Gear,6,DALI DT6 for TW,steruje pozycją Temperatura barwowa = TW
+5,Osprzęt sterujący,Control Gear,8,DALI DT8 for TW,steruje pozycją Temperatura barwowa = TW
+5,Osprzęt sterujący,Control Gear,B,HCL,
+5,Osprzęt sterujący,Control Gear,C,Casambi,
+5,Osprzęt sterujący,Control Gear,E,On/Off,
+5,Osprzęt sterujący,Control Gear,F,High Frequency Sensor [D400-D800],
+5,Osprzęt sterujący,Control Gear,G,Separately Switchable,
+5,Osprzęt sterujący,Control Gear,H,Touch-Dim,
+5,Osprzęt sterujący,Control Gear,L,DALI,
+5,Osprzęt sterujący,Control Gear,M,Multisensor,
+5,Osprzęt sterujący,Control Gear,N,Motion Sensor,
+5,Osprzęt sterujący,Control Gear,R,Swarm Control,
+5,Osprzęt sterujący,Control Gear,S,Switch&Dimm,
+5,Osprzęt sterujący,Control Gear,U,Separately Dimmable DALI,
+5,Osprzęt sterujący,Control Gear,X,Separately Dimmable,
+6,Oddawanie barw,Colour Rendering,2,CRI>97,
+6,Oddawanie barw,Colour Rendering,3,CRI>97 (Fashion White),
+6,Oddawanie barw,Colour Rendering,4,CRI>97 (Fashion Colour),
+6,Oddawanie barw,Colour Rendering,8,CRI>80,
+6,Oddawanie barw,Colour Rendering,9,CRI>90,
+6,Oddawanie barw,Colour Rendering,F,Full Spectrum [except 2200K],nie łączy się z 2200K (zapis „except 2200K” w legendzie)
+7,Temperatura barwowa,Colour Temperature,22,2200K,
+7,Temperatura barwowa,Colour Temperature,27,2700K,
+7,Temperatura barwowa,Colour Temperature,30,3000K,
+7,Temperatura barwowa,Colour Temperature,35,3500K,
+7,Temperatura barwowa,Colour Temperature,40,4000K,
+7,Temperatura barwowa,Colour Temperature,65,6500K,
+7,Temperatura barwowa,Colour Temperature,DW,Dim to Warm 3000K-1800K [DALI only],tylko z osprzętem DALI (zapis „DALI only” w legendzie)
+7,Temperatura barwowa,Colour Temperature,TW,Tunable White 2700-6500K,wymaga osprzętu DALI DT6 lub DT8 (tokeny 6/8 w pozycji Osprzęt sterujący)
+8,Klasa mocy,Power,E,Low Power,wyznacza trwałość L90B10/50 000 h (piktogram na stronie)
+8,Klasa mocy,Power,H,High Power,wyznacza trwałość L87B10/50 000 h (piktogram na stronie)
+8,Klasa mocy,Power,M,Medium Power,wyznacza trwałość L90B10/50 000 h (piktogram na stronie)
+9,Rozmiar,Size,,"wartość wpisywana, nie token — np. Luminaire Length in mm (Microprismatic, Opal Diffuser, Wallwasher): L890,; Luminaire Diameter in mm: D300, D400, D500, D600, D800",dopuszczalne rozmiary zależą od Układu optycznego — katalog podaje osobne listy dla Lens Louvre i dla Microprismatic/Opal/Wallwasher
+10,Absorber akustyczny,Acoustic Absorber,AF,Antracite 3D-Fabric,
+10,Absorber akustyczny,Acoustic Absorber,AR,Micro Perforated Luminaire Colour,
+10,Absorber akustyczny,Acoustic Absorber,AR,Micro Perforated Luminaire Colour,
+10,Absorber akustyczny,Acoustic Absorber,AW,Micro Perforated Snow White,
+10,Absorber akustyczny,Acoustic Absorber,AW,Micro Perforated Snow White,
+10,Absorber akustyczny,Acoustic Absorber,BW,Beige Wool,
+10,Absorber akustyczny,Acoustic Absorber,BW,Beige Wool,
+10,Absorber akustyczny,Acoustic Absorber,CF,Cream 3D-Fabric,
+10,Absorber akustyczny,Acoustic Absorber,GF,Green 3D-Fabric,
+10,Absorber akustyczny,Acoustic Absorber,R2,Grey Felt,
+10,Absorber akustyczny,Acoustic Absorber,R2,Grey Felt,
+10,Absorber akustyczny,Acoustic Absorber,R3,Antracite Felt,
+10,Absorber akustyczny,Acoustic Absorber,R3,Antracite Felt,
+10,Absorber akustyczny,Acoustic Absorber,TF,Taupe 3D-Fabric,
+10,Absorber akustyczny,Acoustic Absorber,ZW,Green Wool,
+10,Absorber akustyczny,Acoustic Absorber,ZW,Green Wool,
+10,Adapter,Adaptor,B,In-Track Electronic [black],
+10,Adapter,Adaptor,W,In-Track Electronic [white],
+10,Długość kurtyny,Curtain Length,,,
+10,Filtr,Filter,F,Magic Colour,
+10,Filtr,Filter,O,Satin,
+10,Kolor adaptera,Adaptor Colour,,,
+10,Kolor przewodu,Cable Colour,B,Black,
+10,Kolor przewodu,Cable Colour,R,Red,
+10,Kolor przewodu,Cable Colour,T,Transparent,
+10,Moduł centralny,Central Module,BP,Blind Plate,
+10,Moduł centralny,Central Module,EM,Emergency Module [D370-D600]***,
+10,Moduł centralny,Central Module,MM,Multisensor [D370-D600]***,
+10,Pierścień optyczny,Optic Ring,A,Satin Silver,
+10,Pierścień optyczny,Optic Ring,D,Anodic Black,
+10,Pierścień optyczny,Optic Ring,F,Anodic Silver,
+10,Pierścień optyczny,Optic Ring,J,Satin Pale Gold,
+10,Pierścień optyczny,Optic Ring,K,Satin Copper,
+10,Pierścień optyczny,Optic Ring,L,Satin Cipria,
+10,Pierścień optyczny,Optic Ring,M,Satin Cloud,
+10,Pierścień optyczny,Optic Ring,R,Special Surface (please specify),
+10,Pierścień optyczny,Optic Ring,V,Ivory White,
+10,Pierścień optyczny,Optic Ring,W,Snow White,
+10,Podstawa,Base,C,Square Shape,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,D,Double T-Shape,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,G,Rectagular Base,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,H,H-Shape,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,I,T-Shape,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,O,Round Base,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,P,Rectangular,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,R,Table Grommet,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,T,Table Clamp,pozycja dla opraw stołowych i stojących
+10,Podstawa,Base,U,U-Shape,pozycja dla opraw stołowych i stojących
+10,Rama drewniana,Wood Frame,,,
+10,Raster soczewkowy,Lens Louvre,A,Satin Silver,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,D,Anodic Black,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,F,Anodic Silver,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,G,Satin Gold,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,J,Satin Pale Gold,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,K,Satin Copper,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,L,Satin Cipria,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,M,Satin Cloud,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,R,Special Surface (please specify),wymaga podania koloru w osobnym polu tekstowym; pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,V,Ivory White,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Raster soczewkowy,Lens Louvre,W,Snow White,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Reflektor,Reflector,A,Satin Silver,
+10,Reflektor,Reflector,D,Anodic Black,
+10,Reflektor,Reflector,F,Anodic Silver,
+10,Reflektor,Reflector,G,Satin Gold,
+10,Reflektor,Reflector,J,Satin Pale Gold,
+10,Reflektor,Reflector,K,Satin Copper,
+10,Reflektor,Reflector,L,Satin Cipria,
+10,Reflektor,Reflector,M,Satin Cloud,
+10,Reflektor,Reflector,R,Special Surface (please specify),
+10,Reflektor,Reflector,U,Urban Graphite,
+10,Reflektor,Reflector,V,Ivory White,
+10,Reflektor,Reflector,W,Snow White,
+10,Reflektor,Reflector,X,Satin Bronze,
+10,Reflektor,Reflector,H,Anodic Champagne,
+10,Reflektor / raster,Reflector / Louvre,A,Satin Silver,
+10,Reflektor / raster,Reflector / Louvre,D,Anodic Black,
+10,Reflektor / raster,Reflector / Louvre,F,Anodic Silver,
+10,Reflektor / raster,Reflector / Louvre,J,Satin Pale Gold,
+10,Reflektor / raster,Reflector / Louvre,K,Satin Copper,
+10,Reflektor / raster,Reflector / Louvre,L,Satin Cipria,
+10,Reflektor / raster,Reflector / Louvre,M,Satin Cloud,
+10,Reflektor / raster,Reflector / Louvre,R,Special Surface (please specify),
+10,Reflektor / raster,Reflector / Louvre,V,Ivory White,
+10,Reflektor / raster,Reflector / Louvre,W,Snow White,
+10,Rozmiar dolnego pierścienia,Size Lower Ring,,,
+10,Rozmiar górnego pierścienia,Size Upper Ring,,,
+10,Sposób montażu,Installation,B,Installation Brackets,
+10,Sposób montażu,Installation,F,Installation Housing,
+10,Stopień ochrony,Protection,,"wartość wpisywana, nie token — np. IP54",występuje tylko w rozdziale Höhere Schutzart (IP54); dla pozostałych IP20 jest domyślne i nieobecne w kodzie
+10,Typ kurtyny,Curtain Type,HA,Satin Silver Chain,
+10,Typ kurtyny,Curtain Type,HD,Anodic Black Chain,
+10,Typ kurtyny,Curtain Type,HV,Ivory White Chain,
+10,Typ modułu,Module Type,,,
+10,Wtyczka sieciowa,Plug,A,Schuko CEE7/7 (Type E+F),
+10,Wtyczka sieciowa,Plug,B,CH T12 (Type J),
+10,Wtyczka sieciowa,Plug,C,UK BS 1363 (Type G),
+10,Wtyczka sieciowa,Plug,D,Wieland,
+10,Wtyczka sieciowa,Plug,E,WAGO,
+10,Wykończenie profilu,Profile Surface Finish,,,
+10,Wykończenie rastra,Louvre Surface,A,Satin Silver,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,D,Anodic Black,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,F,Anodic Silver,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,J,Satin Pale Gold,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,K,Satin Copper,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,L,Satin Cipria,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,M,Satin Cloud,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,R,Special Surface (please specify),pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,V,Ivory White,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie rastra,Louvre Surface,W,Snow White,pozycja występuje tylko dla Układu optycznego L (Lens Louvre)
+10,Wykończenie stożka,Cone Surface,A,Satin Silver,
+10,Wykończenie stożka,Cone Surface,D,Anodic Black,
+10,Wykończenie stożka,Cone Surface,F,Anodic Silver,
+10,Wykończenie stożka,Cone Surface,J,Satin Pale Gold,
+10,Wykończenie stożka,Cone Surface,K,Satin Copper,
+10,Wykończenie stożka,Cone Surface,L,Satin Cipria,
+10,Wykończenie stożka,Cone Surface,M,Satin Cloud,
+10,Wykończenie stożka,Cone Surface,R,Special Surface (please specify),
+10,Wykończenie stożka,Cone Surface,V,Ivory White,
+10,Wykończenie stożka,Cone Surface,W,Snow White,
+10,Wzór ramy,Frame Design,C,Sharp Edge,
+10,Wzór ramy,Frame Design,S,Soft Edge,
+10,Zasilacz,Power Supply,,,
+10,Zawieszenie,Suspension,A,Single Cord Suspension,pozycja dla opraw zwieszanych
+10,Zawieszenie,Suspension,D,Disc Suspension,pozycja dla opraw zwieszanych
+10,Zawieszenie,Suspension,K,Parallel Suspension,pozycja dla opraw zwieszanych
+10,Zawieszenie,Suspension,M,Central Suspension Recessed,pozycja dla opraw zwieszanych
+10,Zawieszenie,Suspension,P,Tube Suspension [D400-D800],pozycja dla opraw zwieszanych
+10,Zawieszenie,Suspension,T,Twin Rod Suspension,pozycja dla opraw zwieszanych
+10,Zawieszenie,Suspension,U,Central Suspension,pozycja dla opraw zwieszanych
+10,Zawieszenie,Suspension,Y,Y-Cord Suspension,pozycja dla opraw zwieszanych
+11,Na życzenie,On Request,,"wartość wpisywana, nie token — np. Multisensor [D400-D800], Radar Sensor, Emergency Module [D400-D800]; Emergency Module",nie jest częścią kodu — opcje zamawiane osobno

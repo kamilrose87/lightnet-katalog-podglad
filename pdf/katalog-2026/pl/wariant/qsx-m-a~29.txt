@@ -1,0 +1,12 @@
+﻿Liquid Line 40 SX
+Typ montażu: Stojąca.
+Rozsył światła: Direct-Indirect.
+Układ optyczny: Microprismatic.
+Wykończenie powierzchni: Snow White.
+Osprzęt sterujący: Separately Dimmable.
+Temperatura barwowa: 4000K.
+Oddawanie barw: CRI>80.
+Strumień świetlny oprawy: 10 500 lm.
+Całkowity pobór mocy: 69 W.
+Skuteczność świetlna: 152 lm/W.
+Kod zamówieniowy: QSXAWX-840M-L1490-UA.

@@ -1,0 +1,8 @@
+﻿Liquid Line 60 A4
+Mounting type: Surface.
+Light distribution: Direct.
+Optical system: Microprismatic.
+Luminaire luminous flux at measurement conditions (840: 4000 K, CRI>80): 1570 lm/m.
+Total power consumption: 11.9 W/m.
+Luminous efficacy at measurement conditions (840: 4000 K, CRI>80): 132 lm/W.
+Ordered according to the project drawing approved by the customer.

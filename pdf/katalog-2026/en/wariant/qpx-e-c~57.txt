@@ -1,0 +1,8 @@
+﻿Liquid Line 40 GX/PX
+Mounting type: Suspended.
+Light distribution: Direct-Indirect.
+Optical system: Opal Flex Diffuser.
+Luminaire luminous flux at measurement conditions (840: 4000 K, CRI>80): 2990 lm/m.
+Total power consumption: 20.7 W/m.
+Luminous efficacy at measurement conditions (840: 4000 K, CRI>80): 144 lm/W.
+Ordered according to the project drawing approved by the customer.

@@ -1,0 +1,8 @@
+﻿Liquid Line 60 G4/P4
+Mounting type: Suspended.
+Light distribution: Direct-Indirect.
+Optical system: Microprismatic.
+Luminaire luminous flux at measurement conditions (840: 4000 K, CRI>80): 6340 lm/m.
+Total power consumption: 41.6 W/m.
+Luminous efficacy at measurement conditions (840: 4000 K, CRI>80): 152 lm/W.
+Ordered according to the project drawing approved by the customer.

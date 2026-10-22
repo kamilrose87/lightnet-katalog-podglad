@@ -1,0 +1,12 @@
+﻿Liquid Line 40 WX
+Mounting type: Wall.
+Light distribution: Direct-Indirect.
+Optical system: Opal Diffuser.
+Surface finish: Snow White.
+Control gear: On/Off.
+Colour temperature: 4000K.
+Colour rendering: CRI>80.
+Luminaire luminous flux: 3380 lm.
+Total power consumption: 23 W.
+Luminous efficacy: 147 lm/W.
+Ordering code: QWXOWE-840M-L890.

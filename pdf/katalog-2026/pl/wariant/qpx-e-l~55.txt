@@ -1,0 +1,8 @@
+﻿Liquid Line 40 GX/PX
+Typ montażu: Zwieszana.
+Rozsył światła: Direct-Indirect.
+Układ optyczny: Lens Louvre.
+Strumień świetlny oprawy w warunkach pomiaru (840: 4000 K, CRI>80): 3800 lm/m.
+Całkowity pobór mocy: 22,3 W/m.
+Skuteczność świetlna w warunkach pomiaru (840: 4000 K, CRI>80): 170 lm/W.
+Zamawiana według rysunku projektowego zaakceptowanego przez klienta.

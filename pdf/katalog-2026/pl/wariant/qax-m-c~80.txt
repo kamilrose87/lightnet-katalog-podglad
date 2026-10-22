@@ -1,0 +1,8 @@
+﻿Liquid Line 40 AX
+Typ montażu: Natynkowa.
+Rozsył światła: Direct.
+Układ optyczny: Opal Flex Diffuser.
+Strumień świetlny oprawy w warunkach pomiaru (840: 4000 K, CRI>80): 1900 lm/m.
+Całkowity pobór mocy: 15,2 W/m.
+Skuteczność świetlna w warunkach pomiaru (840: 4000 K, CRI>80): 125 lm/W.
+Zamawiana według rysunku projektowego zaakceptowanego przez klienta.

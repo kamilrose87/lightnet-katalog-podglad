@@ -1,0 +1,12 @@
+﻿Liquid Line 40 SY
+Mounting type: Floor.
+Light distribution: Direct-Indirect.
+Optical system: Lens Louvre.
+Surface finish: Snow White.
+Control gear: Separately Dimmable.
+Colour temperature: 4000K.
+Colour rendering: CRI>80.
+Luminaire luminous flux: 21,400 lm.
+Total power consumption: 128 W.
+Luminous efficacy: 167 lm/W.
+Ordering code: QSYLWX-840M-L2940-HVA.
